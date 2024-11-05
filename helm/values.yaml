@@ -1,0 +1,7 @@
+deployment:
+  name: node-hostname-helm
+  port: 3000
+
+image:
+  name: node-hostname
+  version: v2
